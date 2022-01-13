@@ -1,9 +1,17 @@
-p {
-    color: white;
-    background-color: black;
+.mainpage {
+    text-align: center;
+    font-size: 36px;
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-h1 {
-    color: white;
-    background-color: black;
+.recipe-header {
+    text-align: center;
+    align-content: center;
+    font-size: 28px;
+    color: grey;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
 }
