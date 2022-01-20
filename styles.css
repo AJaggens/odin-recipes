@@ -24,3 +24,16 @@ p {
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    color: grey;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+}
